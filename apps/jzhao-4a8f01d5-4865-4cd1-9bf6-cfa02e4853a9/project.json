@@ -1,0 +1,92 @@
+{
+  "name": "jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "prefix": "app",
+  "sourceRoot": "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/src",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@angular/build:application",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9",
+        "browser": "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/src/main.ts",
+        "polyfills": ["zone.js"],
+        "tsConfig": "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/tsconfig.app.json",
+        "assets": [
+          {
+            "glob": "**/*",
+            "input": "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/public"
+          }
+        ],
+        "styles": [
+          "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/src/styles.css"
+        ]
+      },
+      "configurations": {
+        "production": {
+          "budgets": [
+            {
+              "type": "initial",
+              "maximumWarning": "500kb",
+              "maximumError": "1mb"
+            },
+            {
+              "type": "anyComponentStyle",
+              "maximumWarning": "4kb",
+              "maximumError": "8kb"
+            }
+          ],
+          "outputHashing": "all"
+        },
+        "development": {
+          "optimization": false,
+          "extractLicenses": false,
+          "sourceMap": true
+        }
+      },
+      "defaultConfiguration": "production"
+    },
+    "serve": {
+      "continuous": true,
+      "executor": "@angular/build:dev-server",
+      "configurations": {
+        "production": {
+          "buildTarget": "jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9:build:production"
+        },
+        "development": {
+          "buildTarget": "jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9:build:development"
+        }
+      },
+      "defaultConfiguration": "development"
+    },
+    "extract-i18n": {
+      "executor": "@angular/build:extract-i18n",
+      "options": {
+        "buildTarget": "jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9:build"
+      }
+    },
+    "lint": {
+      "executor": "@nx/eslint:lint"
+    },
+    "test": {
+      "executor": "@nx/jest:jest",
+      "outputs": ["{workspaceRoot}/coverage/{projectRoot}"],
+      "options": {
+        "jestConfig": "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/jest.config.ts",
+        "tsConfig": "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/tsconfig.spec.json"
+      }
+    },
+    "serve-static": {
+      "continuous": true,
+      "executor": "@nx/web:file-server",
+      "options": {
+        "buildTarget": "jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9:build",
+        "port": 4200,
+        "staticFilePath": "dist/apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/browser",
+        "spa": true
+      }
+    }
+  }
+}
