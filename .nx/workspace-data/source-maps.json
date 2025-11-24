@@ -1,0 +1,1894 @@
+{
+  "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e": {
+    "root": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "metadata.targetGroups": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "metadata.targetGroups.E2E (CI)": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "metadata.targetGroups.E2E (CI).0": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "metadata.targetGroups.E2E (CI).1": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.options": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.cache": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.inputs": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.outputs": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.dependsOn": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.configurations": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.executor": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.options.cwd": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.options.env": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.options.command": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.configurations.production": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.configurations.production.command": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.technologies": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.technologies.0": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.description": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.help": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.help.command": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.help.example": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.outputs": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.inputs": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.cache": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.options": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.dependsOn": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.executor": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.options.cwd": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.options.env": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.options.command": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.technologies": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.technologies.0": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.description": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.help": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.help.command": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.help.example": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.executor": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.cache": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.inputs": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.outputs": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.dependsOn": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.technologies": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.technologies.0": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.description": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.nonAtomizedTarget": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.help": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.help.command": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.help.example": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.options": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.executor": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.options.cwd": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.options.env": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.options.command": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.technologies": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.technologies.0": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.description": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.help": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.help.command": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.help.example": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.lint": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.cache": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.executor": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.cwd": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.command": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies.0": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.description": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.command": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.example": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "// targets": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "implicitDependencies": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "implicitDependencies.jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9-e2e/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "dashboard-e2e": {
+    "root": [
+      "dashboard-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "dashboard-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "metadata.targetGroups": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "metadata.targetGroups.E2E (CI)": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "metadata.targetGroups.E2E (CI).0": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "metadata.targetGroups.E2E (CI).1": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.options": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.cache": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.inputs": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.outputs": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.dependsOn": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.configurations": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.executor": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.options.cwd": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.options.env": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.options.command": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.configurations.production": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.configurations.production.command": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.technologies": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.technologies.0": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.description": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.help": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.help.command": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e.metadata.help.example": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.outputs": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.inputs": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.cache": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.options": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.dependsOn": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.executor": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.options.cwd": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.options.env": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.options.command": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.technologies": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.technologies.0": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.description": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.help": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.help.command": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci--src/e2e/app.cy.ts.metadata.help.example": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.executor": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.cache": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.inputs": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.outputs": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.dependsOn": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.technologies": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.technologies.0": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.description": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.nonAtomizedTarget": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.help": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.help.command": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.e2e-ci.metadata.help.example": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.options": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.executor": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.options.cwd": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.options.env": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.options.command": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.technologies": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.technologies.0": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.description": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.help": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.help.command": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.open-cypress.metadata.help.example": [
+      "dashboard-e2e/cypress.config.ts",
+      "@nx/cypress/plugin"
+    ],
+    "targets.lint": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.cache": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.executor": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.cwd": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.command": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies.0": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.description": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.command": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.example": [
+      "dashboard-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "dashboard-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "dashboard-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "dashboard-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "// targets": [
+      "dashboard-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "dashboard-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "implicitDependencies": [
+      "dashboard-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "implicitDependencies.dashboard": [
+      "dashboard-e2e/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "api": {
+    "root": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.cache": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.executor": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.cwd": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.command": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies.0": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.description": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.command": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.example": [
+      "api/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "projectType": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.cache": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.dependsOn": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.inputs": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.outputs": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.executor": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.cwd": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.args": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.command": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.metadata.technologies": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.technologies.0": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.description": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help.command": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help.example": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.continuous": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.executor": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.cwd": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.args": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.command": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.technologies": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.technologies.0": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.description": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help.command": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help.example": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build-deps": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build-deps.dependsOn": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.continuous": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.dependsOn": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.executor": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.options": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.options.command": [
+      "api/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "name": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.args": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.dependsOn": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.cache": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.executor": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.outputs": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.options": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.options.buildTarget": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.dependsOn": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.cache": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.outputs": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.executor": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.options": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.options.buildTarget": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune.dependsOn": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune.executor": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.continuous": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.dependsOn": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.buildTarget": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.runBuildTargetDependencies": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.jestConfig": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.passWithNoTests": [
+      "api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci.ci": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci.codeCoverage": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "api-e2e": {
+    "root": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.cache": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.executor": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.cwd": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.command": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies.0": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.description": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.command": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.example": [
+      "api-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "implicitDependencies": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "implicitDependencies.api": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.executor": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.outputs": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.options": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.dependsOn": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.options.jestConfig": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.options.passWithNoTests": [
+      "api-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.e2e.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.e2e.configurations.ci": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.e2e.configurations.ci.ci": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.e2e.configurations.ci.codeCoverage": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.e2e.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9": {
+    "root": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.defaultConfiguration": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.browser": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.polyfills": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.tsConfig": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.assets": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.styles": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.budgets": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.outputHashing": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.optimization": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.extractLicenses": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.sourceMap": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.continuous": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.executor": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options.buildTarget": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.jestConfig": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.tsConfig": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.continuous": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.executor": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.buildTarget": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.port": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.staticFilePath": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.spa": [
+      "apps/jzhao-4a8f01d5-4865-4cd1-9bf6-cfa02e4853a9/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.dependsOn": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.options.passWithNoTests": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci.ci": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci.codeCoverage": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "dashboard": {
+    "root": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "dashboard/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.defaultConfiguration": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.browser": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.polyfills": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.tsConfig": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.assets": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.styles": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.server": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.ssr": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputMode": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.budgets": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.outputHashing": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.optimization": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.extractLicenses": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.sourceMap": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.continuous": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.executor": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options.buildTarget": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.jestConfig": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.tsConfig": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.continuous": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.executor": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.buildTarget": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.port": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.staticFilePath": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.spa": [
+      "dashboard/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.dependsOn": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.options.passWithNoTests": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci.ci": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci.codeCoverage": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  }
+}
